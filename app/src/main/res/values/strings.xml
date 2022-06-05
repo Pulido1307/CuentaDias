@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GAS APP</string>
+    <string name="sin_registros_para_mostrar">Sin registros para mostrar</string>
+    <string name="todo">TODO</string>
+    <string name="fecha_de_compra">Fecha de inicio del cilindro</string>
+    <string name="precio">Precio</string>
+    <string name="registrar">Registrar</string>
+    <string name="salir">Salir</string>
+    <string name="tama_o_del_cilindro">Tamaño del cilindro</string>
+    <string name="informaci_n_del_cilindro">Información del cilindro</string>
+    <string name="d_as_de_duraci_n">Días de duración</string>
+    <string name="fecha_de_fin_de_uso">Fecha de fin del cilindro</string>
+    <string name="calcular">Calcular</string>
+    <string name="polarindustries">PolarIndustries</string>
+    <string name="padres">Padres</string>
+    <string name="hermano">Hermano</string>
+    <string name="qui_n_usara_la_aplicaci_n">¿Quién usara la aplicación?</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623634317308",
+    "project_id": "cuenta-dias-f1bc2",
+    "storage_bucket": "cuenta-dias-f1bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623634317308:android:5ab7385bd00c6b1abe3c79",
+        "android_client_info": {
+          "package_name": "com.polar.industries.cuentadias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623634317308-83dfbttnamf444dag2f2m2krt1gb5i45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvtwiiBtKddD7frs2l1PcfqoDtlZrGCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623634317308-83dfbttnamf444dag2f2m2krt1gb5i45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
